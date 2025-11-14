@@ -1,5 +1,6 @@
 import chai from "chai";
-import jsonFixer from "../jsonFixer";
+// const jsonFixer = require('../jsonFixer');
+import jsonFixer from "../jsonFixer.js";
 const expect = chai.expect;
 
 describe("Hidden JSON Fixer tests", () => {

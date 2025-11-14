@@ -1,8 +1,8 @@
 import chai from "chai";
 const expect = chai.expect;
-// import jsonFixer from "../jsonFixer.js";
+import jsonFixer from "../jsonFixer.js";
 
-const jsonFixer = require('../jsonFixer');
+// const jsonFixer = require('../jsonFixer');
 
 describe('JSON Fixer', () => {
   describe('Case 1', () => {
