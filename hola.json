@@ -1,0 +1,30 @@
+[
+  {
+    "a": {
+      "b": {
+        "c{{": "test"
+      }
+    }
+  },
+  {
+    "a": {
+      "b": {
+        "c{{": "test"
+      }
+    }
+  }
+]
+
+{"__comment": Test case 1}
+
+[
+  {
+    {
+      "key1": {
+        "key2": "value1",
+        "key3": "value2"
+      },
+      "anotherkey": "va"
+    }
+  }
+]
